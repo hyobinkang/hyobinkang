@@ -1,14 +1,11 @@
-👋 Welcome to Hyobinkang's GitHub!
-
 ## 🙋 About Me
 
-Hi! I'm **Hyobinkang**, a Computer Science student who enjoys turning ideas into working code.  
+Hi there! I'm **Hyobinkang**, a Computer Science student who enjoys turning ideas into working code.  
 When a project comes my way, I hold on and work through it step by step — that process is what I genuinely enjoy. 😄  
-These days I'm actively using AI tools like Claude to move faster and build smarter.
 
 ## 🌱 Currently Learning
 
-- **Data Analysis & ML** — studying with BDAI, a data science club at my university
+- **Data Analysis & ML** — studying with BDAI, a data science club
 - **SQL** — building a solid foundation for working with data
 - Heading toward **AI & Machine Learning** as my ultimate goal
 
@@ -50,5 +47,4 @@ These days I'm actively using AI tools like Claude to move faster and build smar
 
 ## 📬 Contact
 
-Feel free to reach out — always happy to connect!  
 **[📧 kxxxhybn@gmail.com](mailto:kxxxhybn@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/%ED%9A%A8%EB%B9%88-%EA%B0%95-7628aa2aa/)**
