@@ -39,6 +39,4 @@ These days I'm actively using AI tools like Claude to move faster and build smar
 </p>
 
 ## 📬 Contact
-
-Feel free to reach out — always happy to connect!  
 **[📧 kxxxhybn@gmail.com](mailto:kxxxhybn@gmail.com)**
