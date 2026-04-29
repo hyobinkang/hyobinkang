@@ -7,7 +7,7 @@ When a project comes my way, I hold on and work through it step by step — that
 
 - **Data Analysis & ML** — studying with BDAI, a data science club
 - **SQL** — building a solid foundation for working with data
-- Heading toward **AI & Machine Learning** as my ultimate goal
+- Heading toward a career as an **AI Engineer**
 
 ## 🛠️ Projects
 
@@ -20,6 +20,10 @@ When a project comes my way, I hold on and work through it step by step — that
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Experienced**
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
