@@ -1,11 +1,21 @@
-Hi there 👋 I'm **Computer Science student**. 🚀  
-I am a Bachelor candidate of **한국외국어대학교**, expecting the degree in 2027.  
-With my major in *Computer Science and Engineering*, I have experiences in various development fields.  
-Currently, I'm focusing on enhancing my skills in **Python** and **AI / Machine Learning**.  
-I enjoy solving problems with code and building things that actually work. 💡  
-I hope to develop life-enhancing services. 🌟  
+👋 Welcome to Hyobinkang's GitHub!
 
-### 💪 Skills
+## 🙋 About Me
+
+Hi! I'm **Hyobinkang**, a Computer Science student who enjoys turning ideas into working code.  
+When a project comes my way, I hold on and work through it step by step — that process is what I genuinely enjoy. 😄  
+These days I'm actively using AI tools like Claude to move faster and build smarter.
+
+## 🌱 Currently Learning
+
+- **Data Analysis & ML** — studying with BDAI, a data science club
+- **SQL** — building a solid foundation for working with data
+- Heading toward **AI & Machine Learning** as my ultimate goal
+
+## 🛠️ Toy Projects
+
+
+## 🛠 Skills
 
 **Main Language**
 <p>
@@ -28,5 +38,7 @@ I hope to develop life-enhancing services. 🌟
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### Contact
-✉️ [your@email.com](mailto:your@email.com)
+## 📬 Contact
+
+Feel free to reach out — always happy to connect!  
+**[📧 kxxxhybn@gmail.com](mailto:kxxxhybn@gmail.com)**
