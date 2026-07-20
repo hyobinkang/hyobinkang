@@ -11,8 +11,6 @@ When a project comes my way, I hold on and work through it step by step — that
 
 ## 🛠️ Projects
 
-- **[Typedots.com](https://typedots.com)** — Converts text into grids of colored dots inspired by Damien Hirst's spot paintings. Built with Vanilla JS and Canvas API, deployed on Vercel.
-- **[Openwall](https://openwall.co)** — A platform for exhibition hosts and visitors. Hosts create exhibition pages and issue QR codes; visitors upload photos and reviews. Built with Next.js 15 and Supabase. *(in progress)*
 - **[BlueDump AI](https://github.com/hyobinkang/BlueDump_AI)** — Face recognition-based image classifier. Automatically extracts photos of a specific person from a batch of images using DeepFace and FastAPI, with async processing for performance.
 
 ## 🛠 Skills
